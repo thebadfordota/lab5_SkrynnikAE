@@ -136,6 +136,7 @@ def main():
         return
     if(select_save == 1):
         base.write_to_file(base.data_base)
+    bespoleznaja = 5
     print("Конец программы!")
 
 main()
